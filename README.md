@@ -1,1 +1,1 @@
-[vist]{https://learn-operators.vercel.app/}
+[vist](https://learn-operators.vercel.app/)
